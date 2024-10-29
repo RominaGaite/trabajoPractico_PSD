@@ -2,7 +2,7 @@
 
 Trabajo Practico - Programación de Sistemas - segundo cuatrimestre 2024
 
-Integrantes Romina Gaite | Melisa Llanes | Elizabeth Armoa | Ornella Barboza | Silvia Casale
+Integrantes Romina Gaite | Melisa Llanes | Elizabeth Armoa | Ornella Barboza | Silvia Casale | Alexis Corral
 
 Diagrama de Flujo link = https://whimsical.com/U5TzUk1wK2L1Nh23uN7RP7
 
